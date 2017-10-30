@@ -1,0 +1,7 @@
+C:\Users\David Luke\source\repos\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe.config
+C:\Users\David Luke\source\repos\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.exe
+C:\Users\David Luke\source\repos\CSharpIntermediate\CSharpIntermediate\bin\Debug\CSharpIntermediate.pdb
+C:\Users\David Luke\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csprojResolveAssemblyReference.cache
+C:\Users\David Luke\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.csproj.CoreCompileInputs.cache
+C:\Users\David Luke\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.exe
+C:\Users\David Luke\source\repos\CSharpIntermediate\CSharpIntermediate\obj\Debug\CSharpIntermediate.pdb
